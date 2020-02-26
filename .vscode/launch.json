@@ -2,6 +2,13 @@
     "version": "0.2.0",
     "configurations": [
       {
+        "type": "java",
+        "name": "CodeLens (Launch) - two_sum_n_squared_solution",
+        "request": "launch",
+        "mainClass": "two_sum_n_squared_solution",
+        "projectName": "udemy-cpp-data-structures-and-algorithms-course_afac12c0"
+      },
+      {
         "name": "g++ build and debug active file",
         "type": "cppdbg",
         "request": "launch",
