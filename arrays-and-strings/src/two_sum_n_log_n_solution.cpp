@@ -19,7 +19,11 @@ class Solution
             nums2.push_back(temp);
         }
 
+        sort(nums2.begin(), nums2.end());
 
+        int i = 0, j = nums2.size()-1;
+
+        
 
         return ret;
     }
